@@ -8,6 +8,10 @@ To design, develop and deploy a web application for event registration.
 ### Step 1:
 Create a new frame.
 
+## AIM:
+To design, develop and deploy a web application for event registration.
+
+
 ### Step 2:
 Select any one preset size of your choice.
 
