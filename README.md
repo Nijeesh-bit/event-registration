@@ -32,7 +32,7 @@ Validate the HTML and CSS code.
 Publish the website in the given URL.
 
 ## DESIGN:
-<img width="466" alt="image" src="https://github.com/Nijeesh-bit/event-registration/assets/89188014/c9a13e90-979c-41aa-b6a2-fb688f9e47ea">
+<img width="466" alt="Screenshot 2023-12-21 221836" src="https://github.com/Nijeesh-bit/event-registration/assets/89188014/e876dcbe-7fb0-4ba2-87a7-5a3ed202a56b">
 
 
 ## PROGRAM :
@@ -259,9 +259,10 @@ background: #D447EA;
 box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
 ```
 ## OUTPUT:
-<img width="474" alt="image" src="https://github.com/Nijeesh-bit/event-registration/assets/89188014/654f1076-0882-4b33-b3d2-4ca4ade0c42e">
-<img width="478" alt="image" src="https://github.com/Nijeesh-bit/event-registration/assets/89188014/141e0d64-8e3b-4310-8a24-7b776d927049">
-<img width="470" alt="image" src="https://github.com/Nijeesh-bit/event-registration/assets/89188014/d283d939-ba16-4a3c-a7a9-902c8851bfe5">
+<img width="474" alt="Screenshot 2023-12-21 214135" src="https://github.com/Nijeesh-bit/event-registration/assets/89188014/39cfcf6c-c9e5-4a93-9d4e-711d81e59ba6">
+<img width="478" alt="Screenshot 2023-12-21 214212" src="https://github.com/Nijeesh-bit/event-registration/assets/89188014/6a1eeef1-e6d9-4e90-b4dd-43412bdc51b1">
+<img width="470" alt="Screenshot 2023-12-21 214232" src="https://github.com/Nijeesh-bit/event-registration/assets/89188014/2432ff1c-7f27-4e1c-ad13-09da6c3d1708">
+
 
 ## Result:
 The program to design, develop and deploy a web application for event registration is completed successfully.
