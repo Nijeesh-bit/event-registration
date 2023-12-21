@@ -36,7 +36,7 @@ Publish the website in the given URL.
 
 
 ## PROGRAM :
-```
+```css
 
 width: 1002px;
 height: 206px;
